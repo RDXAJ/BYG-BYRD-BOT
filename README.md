@@ -36,11 +36,12 @@ BOT LGANE PAR APKA ACCOUNT BAN BHI HO SKTA HAI.....APNE RISK PAR BNAO
 notifications in Update Channel.
 
 ```
+Support group👇👇
 @Byg_Byrd_Bot_Support_Group
 
 </details>
 
-<details>
+<FOR DEPLOY>
 
 
 
@@ -55,7 +56,7 @@ notifications in Update Channel.
 
 </a>
 
-<h3 align="center">⚔️ The Normal Way ⚔️</h3>
+<h3 align="center">The Normal Way</h3>
 
 <h4 align="center">To host Héllẞø† locally or on any other VPS, Go to</h4>
 
