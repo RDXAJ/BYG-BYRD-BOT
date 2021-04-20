@@ -23,24 +23,20 @@
 
 <details>
 
-  <summary> Credits </summary>
+  <NOTE> <CREDITS>
 
-• [Hellbot](https://github.com/hellboy-op/hellbot)
-
-</details>
-
-<details>
+<NOTE>
 
 ```
 
-Get help regarding setting up 
 
-support Group and get updates
+
+BOT LGANE PAR APKA ACCOUNT BAN BHI HO SKTA HAI.....APNE RISK PAR BNAO
 
 notifications in Update Channel.
 
 ```
-
+@Byg_Byrd_Bot_Support_Group
 
 </details>
 
@@ -48,13 +44,6 @@ notifications in Update Channel.
 
 
 
-<  <summary> Video Tutorial 📺 </summary>
-
-```
-
-Official YouTube Channel Of Hêllẞø†.
-
-```
 
 >
 
