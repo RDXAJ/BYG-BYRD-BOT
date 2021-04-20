@@ -58,9 +58,7 @@ Support group👇👇
 
 <h3 align="center">The Normal Way</h3>
 
-<h4 align="center">To host Héllẞø† locally or on any other VPS, Go to</h4>
-
-<h2 align="center"> <a href="https://github.com/thevaders/vader">⚡ VΛDΣЯ REPO ⚡</a></h2>
+<h4 align="center">To host BYG BYRD locally or on any other VPS, Go to</h4>
 
 ## Mandatory Vars
 
