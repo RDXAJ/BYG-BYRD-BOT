@@ -11,7 +11,7 @@
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
 
-<h1 align="center">💥𝘽𝙔𝙂 𝘽𝙔𝙍𝘿💥</h1>
+<h1 align="center">💥𝘽𝙔𝙂 𝘽𝙔𝙍𝘿💥</h9>
 
 <h4 align="center">L3G3ÑDÀ46B9T</h4>
 
