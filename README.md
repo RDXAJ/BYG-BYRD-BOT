@@ -2,11 +2,12 @@
                       
 
 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙄𝙉 𝙊𝙐𝙍 𝙍𝙀𝙋𝙊🔥
-         ...........
-.........AJ ØP BOLTE..........
-         ...........
+.
+.AJ ØP BOLTE
+.
 𝙏𝙃𝙄𝙎 𝘽𝙊𝙏 𝙄𝙎 𝙈𝘼𝘿𝙀 𝘽𝙔 M3 𝙁𝙊𝙍 𝙁𝙐𝙉🔥</h3>
-
+.
+.
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/HellBoy-OP/HellBot?utm_source=github.com&utm_medium=referral&utm_content=HellBoy-OP/HellBot&utm_campaign=Badge_Grade_Settings)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
