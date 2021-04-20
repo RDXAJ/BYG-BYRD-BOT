@@ -1,10 +1,13 @@
-<h3>☣️ The Most Powerfull Userbot ☣️</h3>
+<h3>🔥            𝙃𝙀𝙇𝙇𝙊𝙊 𝙂𝙐𝙔𝙎𝙎
+      𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙄𝙉 𝙊𝙐𝙍 𝙍𝙀𝙋𝙊-
+
+𝙏𝙃𝙄𝙎 𝘽𝙊𝙏 𝙄𝙎 𝙈𝘼𝘿𝙀 𝘽𝙔 @AJ_FS  𝙁𝙊𝙍 𝙁𝙐𝙉 𝘼𝙉𝘿 𝙎𝙋𝘼𝙈𝙈𝙄𝙉𝙂 𝙁𝙔𝙏 𝙀𝘾𝙏🔥</h3>
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/HellBoy-OP/HellBot?utm_source=github.com&utm_medium=referral&utm_content=HellBoy-OP/HellBot&utm_campaign=Badge_Grade_Settings)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
 
-<h1 align="center">⚡ †hê Byrd ⚡</h1>
+<h1 align="center">💥𝘽𝙔𝙂 𝘽𝙔𝙍𝘿💥</h1>
 
 <h4 align="center">Legendary AF Byrd</h4>
 
@@ -14,9 +17,6 @@ Enjoy Your Bot!
 
 [![HellBot logo](https://telegra.ph/file/5bc5130bfad2ff047a410.jpg)
 
-### The owner would not be responsible for any kind of bans due to the bot...
-
-# FORK AT YOUR OWN RISK
 
 <details>
 
