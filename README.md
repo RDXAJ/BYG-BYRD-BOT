@@ -14,13 +14,12 @@
 
 <h1 align="center">💥𝘽𝙔𝙂 𝘽𝙔𝙍𝘿💥</h1>
 
-<h4 align="center">Legendary AF Byrd</h4>
+<h4 align="center">L3G3ÑDÀ46B9T</h4>
 
-<h5>This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.</
-
+<h5>TELEGRAM KYA HAI KIU HAI YE NHI JANTA😂PAR JO BHI HAI BOHT ACHA LAGTA HAI ORR MAINE YEE BOT SIRF KHUDKE LIYE AND FRIENDS K LIYE BNAYA😂🔥.
 Enjoy Your Bot!
 
-[![HellBot logo](https://telegra.ph/file/5bc5130bfad2ff047a410.jpg)
+[![BYG BYRD logo](https://telegra.ph/file/5bc5130bfad2ff047a410.jpg)
 
 
 <details>
